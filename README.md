@@ -18,6 +18,7 @@ This project focuses on analyzing Zepto product data using Power BI to uncover i
 - Excel
 - Power Query
 - DAX
+- SQL
 
 ## 📈 Key Performance Indicators (KPIs)
 - Total Revenue: 270.85K
